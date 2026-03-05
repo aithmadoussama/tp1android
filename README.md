@@ -1,6 +1,6 @@
-# 📱 Android Lab 1 – Application Compteur et Message Toast
+#  Android Lab 1 – Application Compteur et Message Toast
 
-## 📖 Description
+## Description
 Cette application Android est un projet de travaux pratiques qui démontre des concepts de base du développement Android en utilisant **Java** et **ConstraintLayout**.
 
 L'application contient :
@@ -12,7 +12,7 @@ Ce projet est destiné aux débutants qui apprennent le développement Android.
 
 ---
 
-## ⚙️ Technologies utilisées
+## Technologies utilisées
 - Java
 - Android Studio
 - Android SDK
@@ -21,9 +21,9 @@ Ce projet est destiné aux débutants qui apprennent le développement Android.
 
 ---
 
-## 🧩 Fonctionnalités
+## Fonctionnalités
 
-### 1️⃣ Affichage d’un message Toast
+### Affichage d’un message Toast
 Lorsque l’utilisateur appuie sur le bouton **"Afficher un message"**, un message Toast apparaît à l’écran.
 
 Exemple de message :
@@ -32,14 +32,14 @@ Exemple de message :
 Bonjour !
 ```
 
-### 2️⃣ Compteur
+###  Compteur
 Lorsque l’utilisateur appuie sur le bouton **"Compter"** :
 - La valeur du compteur augmente de **1**
 - Le **TextView** se met à jour automatiquement
 
 ---
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```
 lab1/
@@ -63,7 +63,7 @@ Ce fichier définit l’interface utilisateur en utilisant **ConstraintLayout** 
 
 ---
 
-## ▶️ Comment exécuter le projet
+##  Comment exécuter le projet
 
 1. Cloner le dépôt
 
@@ -79,7 +79,7 @@ git clone https://github.com/votre-utilisateur/lab1-android.git
 
 ---
 
-## 🎯 Objectifs pédagogiques
+##  Objectifs pédagogiques
 Ce TP permet de comprendre :
 - Le fonctionnement d’une **Activity Android**
 - La gestion des événements avec `setOnClickListener`
